@@ -20,7 +20,7 @@ cfg.txt - Configuration parameters for the molecular docking simulation.
 
 ## Molecular Dynamics (MD) Setup:
 
-input_IRT.gro, input_CPT.gro - Ligand structures for MD.
+input_IRT.str, input_CPT.str - Ligand force field parameters and topologies for MD.
 
 input_MD_hnRNPA2B1-IRT.gro, input_MD_hnRNPA2B1-CPT.gro - Final solvated systems (protein-ligand in water box with NaCl) for MD production runs.
 
